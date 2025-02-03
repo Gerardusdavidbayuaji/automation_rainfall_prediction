@@ -1,7 +1,7 @@
 ## Rainfall Prediction
 
 <div align="center" width="100%">
-   <img src="public/simadu.png" alt="Real Estate">
+   <img src="public/simadu.png" alt="Simadu">
 </div>
 
 ## Introduction
