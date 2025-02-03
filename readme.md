@@ -18,6 +18,7 @@ This notebook contains analysis and prediction of rainfall based on raster data 
 
 - Python
 - Pandas
-- GeoPandas
 - Numpay
 - Rasterio
+- GeoPandas
+- Geoserver
